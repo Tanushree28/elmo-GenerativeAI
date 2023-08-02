@@ -8,6 +8,8 @@ But still getting an error  `'AutoTrackable' object is not callable` we tried to
 
 In the notebook `elmo_new`: two retrieval tasks have been added showing the issues we are facing 
 
+`Due to mteb[beir] package installation issue we have been using either kaggle or google collab`
+
 
 ![image](https://github.com/Tanushree28/elmo-GenerativeAI/assets/59421381/4d027a1f-6d52-46bc-bc3b-39d8020e0fde)
 
